@@ -1,6 +1,6 @@
 ## Homework 3
 
-The deadline for Homework 3 is Friday, September 29, 6pm. The late submission deadline is Friday, October 6, 4pm.
+The deadline for Homework 3 is Thursday, February 19th, 2pm. 
 
 Refer to the homework handout [`hw03.pdf`](hw03.pdf) for details about the assignment. This file provides some information to help you get started with setting up your development environment for the homework assignments.
 
@@ -12,20 +12,20 @@ provided in the announcement of this homework assignment on
 Brightspace. After clicking on the link, you will receive an email from
 GitHub, when your copy of the repository is ready. It will be
 available at
-`https://github.com/nyu-popl-fa23/hw03-<YOUR-GITHUB-USERNAME>`.
+`https://github.com/nyu-popl-sp26/homework-3-<YOUR-GITHUB-USERNAME>`.
 Note that this may take a few minutes.
 
-* Open a browser at `https://github.com/nyu-popl-fa23/hw03-<YOUR-GITHUB-USERNAME>` with your Github username inserted at the appropriate place in the URL.
+* Open a browser at `https://github.com/nyu-popl-sp26/homework-3-<YOUR-GITHUB-USERNAME>` with your Github username inserted at the appropriate place in the URL.
 * Choose a place on your computer for your homework assignments to reside and open a terminal to that location.
 * Execute the following git command: <br/>
   ```bash
-  git clone https://github.com/nyu-popl-fa23/hw03-<YOUR-GITHUB-USERNAME>.git hw03
+  git clone https://github.com/nyu-popl-sp26/homework-3-<YOUR-GITHUB-USERNAME>.git hw03
   cd hw03
   ```
 
 Please make sure that you clone the copy of your own version of this repository that is identified by your Github username, rather than the template repository.
 
-The problems that you you should solve for this assignment are described in the file `hw03.pdf`.
+The problems that you should solve for this assignment are described in the file `hw03.pdf`.
 
 The assignment consists of a coding part (Problem 1(d,e)) and a non-coding part.
 
@@ -37,7 +37,7 @@ The assignment consists of a coding part (Problem 1(d,e)) and a non-coding part.
    ``` 
    relative to the root directory of the repository. Follow the instructions in the
    [in-class-code](https://github.com/nyu-popl-fa23/in-class-code)
-   repository to import the project into InteliJ (or use your other
+   repository to import the project into IntelliJ (or use your other
    favorite IDE or editor to work on the assignment).
 
    You can implement the solutions by replacing the `???`
@@ -63,7 +63,7 @@ You can replace "solution" by a more meaningful commit message.
 
 Refresh your browser window pointing at
 ```
-https://github.com/nyu-popl-fa23/hw03-<YOUR-GITHUB-USERNAME>/
+https://github.com/nyu-popl-sp26/homework-3-<YOUR-GITHUB-USERNAME>/
 ```
 and double-check that your solution has been uploaded correctly.
 
